@@ -11,6 +11,7 @@ tailwind.config.js
 package.json
 package-lock.json
 design
+src
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################
