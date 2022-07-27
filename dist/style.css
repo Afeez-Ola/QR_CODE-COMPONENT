@@ -657,6 +657,10 @@ video {
   height: 5rem;
 }
 
+.h-auto {
+  height: auto;
+}
+
 .w-1\/5 {
   width: 20%;
 }
@@ -691,6 +695,18 @@ video {
 
 .w-60 {
   width: 15rem;
+}
+
+.w-1\/2 {
+  width: 50%;
+}
+
+.w-3\/4 {
+  width: 75%;
+}
+
+.w-4\/5 {
+  width: 80%;
 }
 
 .border-collapse {
